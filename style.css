@@ -1,0 +1,44 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+marquee{
+    font-size: 20px;
+    background-color: greenyellow;
+    color: red;
+}
+img{
+    width: 100%;
+}
+.contact_1 img{
+    height: 300px ;
+    width: 300px ;
+} 
+.achievments i{
+    float: right;
+}
+.achievments{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.list-group img{
+    height: 250px;
+    width: 350px;
+}
